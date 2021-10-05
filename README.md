@@ -12,3 +12,5 @@ https://jrophoff.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Jordan Ophoff
+
+### ©️2019 Run Buddy, Inc 
